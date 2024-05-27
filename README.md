@@ -1,0 +1,2 @@
+This a basic Todo React App created by K.srinivas reddy. This todo app helps you manage your tasks and lists. Feel free to use the features of this app to manage your daily tasks.
+This Todo App lets you create a todo/task/list , edit , mark the finished todos and delete the unwanted todos.
